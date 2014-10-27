@@ -1,6 +1,6 @@
 ---
 layout: grayscale
-title: About
+title: Tastwerk - Tasten des guten Tons
 permalink: /about/
 ---
 
