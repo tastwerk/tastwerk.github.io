@@ -2,7 +2,7 @@
 title: TastWerk.Berlin
 email: info@tastwerk.berlin
 description: > # this means to ignore newlines until "baseurl:"
-   Willkommen beim TastWerk Berlin!
+   Willkommen beim TastWerk Berlin!<br />
    Unsere Seite befindet sich noch im Aufbau.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://tastwerk.berlin" # the base hostname & protocol for your site
