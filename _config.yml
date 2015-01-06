@@ -3,7 +3,8 @@ title: TastWerk.Berlin
 email: info@tastwerk.berlin
 description: > # this means to ignore newlines until "baseurl:"
    Willkommen beim TastWerk Berlin!<br />
-   Unsere Seite befindet sich noch im Aufbau.
+   Unsere Seite befindet sich noch im Aufbau.<br />
+   Bei Interesse wenden Sie sich an den Klavierbaumeister Rehtmeyer, Leonhardtstraße 25, 14057 Berlin.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://tastwerk.berlin" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
