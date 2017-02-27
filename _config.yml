@@ -3,14 +3,19 @@ title: TastWerk.Berlin
 email: info@tastwerk.berlin
 description: > # this means to ignore newlines until "baseurl:"
    Willkommen beim TastWerk Berlin!<br />
-   Unsere Seite befindet sich noch im Aufbau.<br />
-   Bei Interesse wenden Sie sich an den Klavierbaumeister Rehtmeyer, Leonhardtstraße 25, 14057 Berlin.<br />
+   Unser Internetauftritt befindet sich noch im Aufbau.<br />
    <br />
-   Öffnungszeiten:<br />
-   Montag-Freitag 11-18 Uhr<br />
-   und nach Absprache unter<br />
+   Haben Sie Interesse oder Fragen rund um Tasteninstrumente?<br />
+   Worum es auch geht,<br />
+   seien es Klavierstimmungen, Reparaturen, Instrumententransporte oder Klavierunterricht,<br />
+   es hift Ihnen gern weiter:<br />
    <br />
-   Tel: 030-219 60 622
+   Nathanael Petri<br />
+   <i>- Klavierbauer und Pianist -</i><br />
+   030-23 95 97 24<br />
+   01577-621 38 61<br />
+   petri@tastwerk.berlin<br />
+   <br />
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://tastwerk.berlin" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
